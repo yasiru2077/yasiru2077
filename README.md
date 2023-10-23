@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiru2077&show_icons=true&locale=en&layout=compact" alt="yasiru2077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiru2077&show_icons=true&locale=en" alt="yasiru2077" /></p>
+
