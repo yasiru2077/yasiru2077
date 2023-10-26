@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio [https://yasiru2077.github.io/cv1/](https://yasiru2077.github.io/cv1/)
 
-- 📄 Know about my experiences([resume](https://github.com/yasiru2077/yasiru2077/files/13078233/YasiruUdana.pdf))
+- 📄 Know about my experiences([resume](https://github.com/yasiru2077/yasiru2077/files/13181643/Yasiru.Udana.CV.1.pdf))
 
 - 📫 How to reach me **yasiruudana1999@gmail.com**
 
