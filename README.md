@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasiru Udana Kahanda Gamage</h1>
-<h3 align="center">Software Engineering undergrad, proficient in coding, passionate about innovation, and committed to high-quality software development.</h3>
+<h3 align="center">Software Deveoper, proficient in coding, passionate about innovation, and committed to high-quality software development.</h3>
 
 - 🔭 I’m currently working on [on a learning management system](https://github.com/yasiru2077/Edulanka)
 
